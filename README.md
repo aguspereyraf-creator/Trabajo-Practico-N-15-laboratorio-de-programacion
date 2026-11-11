@@ -10,13 +10,13 @@ Por este motivo, no fue posible realizar de forma segura las modificaciones de l
 Utilizar la inteligencia artificial como ayuda para comprender la estructura de Blockly Games, realizar modificaciones visuales y elaborar la documentación del proyecto.
 
 ## Prompt exacto: 
-"Tortuga: cambiar la tortuga por la mascota; agregar un nivel para dibujar el escudo con bloques; modificar la paleta de colores". También se realizaron consultas sobre los archivos CSS y JavaScript del proyecto.
+"Quiero modificar el personaje del juego Puzzle para agregarle el uniforme del colegio, manteniendo su apariencia y proporciones originales".
 
 ## Fundamentación: 
-Se utilizó la IA como herramienta de consulta y orientación para resolver dudas durante el desarrollo. Las sugerencias fueron revisadas antes de aplicarlas, intentando mantener el funcionamiento original de la aplicación.
+Se utilizó la IA como herramienta de consulta y orientación para realizar la personalización del personaje y resolver dudas durante el desarrollo del proyecto.
 
 ## Aprendizaje: 
 Aprendí a identificar archivos CSS, modificar los colores de una interfaz y reconocer la diferencia entre archivos fuente y archivos generados automáticamente.
 
 ## Verificación realizada: 
-Se probaron los cambios realizados en el CSS del juego Tortuga y se comprobó que los colores institucionales se mostraban correctamente. También se revisó la estructura del proyecto para evitar modificar archivos generados automáticamente. Las modificaciones de lógica en JavaScript propuestas inicialmente no llegaron a implementarse.
+Se comprobó visualmente que el personaje mostrara el uniforme institucional y que el juego Puzzle continuara funcionando correctamente después de la modificación.
